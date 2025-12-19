@@ -1,4 +1,5 @@
 name = "GCC Builder"
+version = "1.0.0"
 extension = "c"
 suppress_window = true
 

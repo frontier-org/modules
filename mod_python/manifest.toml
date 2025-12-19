@@ -1,4 +1,5 @@
 name = "Python Runner"
+version = "1.0.0"
 extension = "py"
 interpreter = "python"
 suppress_window = true
