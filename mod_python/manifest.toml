@@ -1,0 +1,10 @@
+name = "Python Runner"
+extension = "py"
+interpreter = "python"
+suppress_window = true
+
+# [build]  <-- REMOVIDO!
+# O Manager vai detectar que não tem build e fará uma cópia segura automaticamente.
+
+[dev]
+strategy = "interpreter"

@@ -1,0 +1,9 @@
+name = "GCC Builder"
+extension = "c"
+suppress_window = true
+
+[dev]
+strategy = "build"
+
+[build]
+command = "gcc %IN% -o %OUT%" # GCC funciona bem com caminhos do Rust

@@ -1,0 +1,9 @@
+name = "Batch"
+extension = "bat"
+interpreter = "cmd /c"
+suppress_window = false
+
+# [build] <-- REMOVIDO!
+
+[dev]
+strategy = "interpreter"
