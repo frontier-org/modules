@@ -1,4 +1,4 @@
-name = "Batch"
+name = "Mod CMD"
 version = "1.0.0"
 extension = "bat"
 interpreter = "cmd /c"
@@ -7,4 +7,5 @@ suppress_window = false
 # [build] <-- REMOVIDO!
 
 [dev]
+
 strategy = "interpreter"
