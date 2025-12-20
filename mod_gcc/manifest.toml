@@ -1,4 +1,4 @@
-name = "Mod C"
+name = "Mod GCC"
 version = "1.0.0"
 extension = "c"
 suppress_window = true
@@ -9,3 +9,4 @@ strategy = "build"
 [build]
 
 command = "gcc %IN% -o %OUT%" # GCC funciona bem com caminhos do Rust
+
