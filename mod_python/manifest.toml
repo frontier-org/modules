@@ -1,4 +1,4 @@
-name = "Python Runner"
+name = "Mod Python"
 version = "1.0.0"
 extension = "py"
 interpreter = "python"
@@ -8,4 +8,5 @@ suppress_window = true
 # O Manager vai detectar que não tem build e fará uma cópia segura automaticamente.
 
 [dev]
+
 strategy = "interpreter"
