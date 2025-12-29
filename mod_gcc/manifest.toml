@@ -7,6 +7,4 @@ suppress_window = true
 strategy = "build"
 
 [build]
-
-command = "gcc %IN% -o %OUT%" # GCC funciona bem com caminhos do Rust
-
+command = "gcc %IN% -o %OUT%"
